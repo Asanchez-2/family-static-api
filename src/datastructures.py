@@ -35,7 +35,7 @@ class FamilyStructure:
                 "age": 5,
                 "Lucky_numbers": [1]
             }
-            ]
+        ]
 
     # read-only: Use this method to generate random members ID's when adding members into the list
     def _generateId(self):
